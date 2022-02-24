@@ -5,5 +5,4 @@ function findIntegers(array) {
   });
 }
 let integers = findIntegers(things);
-console.log(integers); 
- 
+console.log(integers);
